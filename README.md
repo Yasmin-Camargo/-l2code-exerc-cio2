@@ -11,7 +11,9 @@ permitiram a dedução das seguintes regras:
 3. Existem apenas 3 tempos verbais: passado, presente e futuro
 4. Para conjugar o verbo, os nativos substituem o sufixo ‘en’ por outro, de acordo com a
 seguinte tabela
+![image](https://user-images.githubusercontent.com/88253809/152686378-77fea58b-a5ee-42f3-a517-4bdbcc05a564.png)
 
+Em
 O programa deve analisar uma palavra, verificar se é um verbo ou não, se for um verbo, deve
 indicar a pessoa e o tempo verbal em que ela está conjugada.
 
